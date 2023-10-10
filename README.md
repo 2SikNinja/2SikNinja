@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @2SikNinja
+- 👋 Hi, I’m 
 - 👀 I’m interested in looking for people learning and sharing the same ideas I have!
 - 🌱 I’m currently learning Java, C++, Python, Lua, and focused on object-oriented programming.
 - 💞️ I’m looking to collaborate on projects!
-- 📫 You can reach me on Instagram @ppeternnguyen
+- 📫 You can reach me on
 
 <!---
 2SikNinja/2SikNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
