@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 
 - 👀 I’m interested in looking for people learning and sharing the same ideas I have!
-- 🌱 I’m currently learning Java, C++, Python, Lua, and focused on object-oriented programming.
+- 🌱 I’m currently learning Java, C++, Python, and Lua.
 - 💞️ I’m looking to collaborate on projects!
 - 📫 You can reach me on
 
