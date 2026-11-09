@@ -47,8 +47,8 @@
 ## GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats-ten-tau-58.vercel.app/api?username=2SikNinja&show_icons=true&theme=nightowl&hide_border=true" alt="Peter's GitHub stats" height="165" />
-  <img src="https://github-readme-stats-ten-tau-58.vercel.app/api/top-langs?username=2SikNinja&layout=compact&theme=nightowl&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-ten-tau-58.vercel.app/api?username=2SikNinja&show_icons=true&theme=nightowl&hide_border=true&v=2" alt="Peter's GitHub stats" height="165" />
+  <img src="https://github-readme-stats-ten-tau-58.vercel.app/api/top-langs?username=2SikNinja&layout=compact&theme=nightowl&hide_border=true&v=2" alt="Top languages" height="165" />
 </p>
 
 <p align="left">
